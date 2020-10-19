@@ -2,8 +2,8 @@
   "name": "systemusercar_frontend",
   "version": "0.1.0",
   "engine": {
-    "node": "12.18.2",
-    "npm": "6.14.5"
+    "node": "12.x",
+    "npm": "6.x"
   },
   "private": true,
   "scripts": {
